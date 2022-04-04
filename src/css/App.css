@@ -1,0 +1,67 @@
+.App{
+  text-align: center; 
+}
+
+nav{ 
+  display: flex; 
+  justify-content: space-around; 
+  align-items: center; 
+  min-height: 8vh; 
+  width: 100%; 
+  background: white; 
+  top: 10%; 
+  font-size: 2rem; 
+
+}
+
+
+.options{
+  width: 25%; 
+  display: flex; 
+  justify-content: space-around; 
+  align-items: center; 
+  list-style: none; 
+  position: absolute; 
+  left: 65%; 
+  
+}
+
+.ac{
+  position:absolute;
+  top: -3%; 
+  left: -15%;
+
+}
+
+li{
+  color:black; 
+  
+  font-family:Verdana, Geneva, Tahoma, sans-serif; 
+  font-size: 1.7rem; 
+  
+}
+
+li:hover{
+  color: beige; 
+  background-color: rgba(54, 229, 252, 0.7); 
+  border-radius:4px; 
+  transition: 0.7s;
+}
+
+.logo{
+  position:absolute;
+  top: -3%; 
+  left: 10%;
+  font-family:'Courier New', Courier, monospace; 
+  color: black; 
+  font-size: 2.8rem; 
+
+}
+
+.logo:hover{
+  color: beige; 
+  background-color: rgba(54, 229, 252, 0.7); 
+  border-radius:4px; 
+  transition: 0.7s; 
+
+}

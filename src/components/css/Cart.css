@@ -1,0 +1,42 @@
+.shesh{ 
+    position: absolute; 
+    top: 17%; 
+    left: 35%; 
+}
+
+.itemList{ 
+    position: absolute; 
+    top:30%; 
+    left: 34.5%;
+}
+
+#liItem{
+    font-size: 1rem; 
+    list-style: none; 
+    background-color: white; 
+    color: black; 
+     
+
+}
+
+.minus{
+    font-size: 0.8rem;
+    border-radius: 10px; 
+    background-color: black; 
+    color: white; 
+    
+}
+
+.minus:hover{ 
+    color: beige; 
+    background-color: rgba(54, 229, 252, 0.7); 
+    transition: 0.7s; 
+   
+}
+
+.empty{
+    position: absolute; 
+    top: 50%; 
+    left: 38.5%; 
+    font-size: 2rem; 
+}

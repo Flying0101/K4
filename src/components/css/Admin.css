@@ -1,0 +1,42 @@
+.allUser{ 
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    
+}
+
+.pro{ 
+    position: absolute; 
+    
+    top: 60%; 
+    font-size: 1.5rem; 
+}
+
+.allpro{
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    width: 25%; 
+    
+}
+
+.go{ 
+    
+    position: absolute; 
+    top: 30%;
+    left: 42%;  
+    font-size: 1.3rem; 
+
+}
+
+.logOut{
+
+    background-color: rgb(255, 101, 101); 
+    left: 1%; 
+    position: absolute; 
+    font-size: 1.5rem; 
+}
